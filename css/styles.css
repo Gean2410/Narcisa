@@ -10830,5 +10830,8 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
-
+.vid{
+position:relative;
+left:50%;
+}
 
